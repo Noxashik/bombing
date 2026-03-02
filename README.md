@@ -37,10 +37,11 @@ pkg install python git -y
 pip install requests
 
 # Clone Repository 
-git clone [https://github.com/Noxashik/bombing](https://github.com/Noxashik/bombing)
+git clone https://github.com/Noxashik/bombing
 
 # Enter Directory
 cd bombing
 
 # Run Tool
 python bomber_enc.py
+
