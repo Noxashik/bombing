@@ -1,32 +1,30 @@
-# bombing
-Professional SMS Bomber with IP-Shield &amp; Cloud Login System. Created by Minhaj Chowdhury.
+# 🚀 STEALTH ENGINE PRO (V22.0)
+**Professional SMS Bomber with Advanced Security.** Developed by **Minhaj Chowdhury (NOX BHAI)** 🛡️
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/Noxashik/bombing?style=for-the-badge&color=orange">
   <img src="https://img.shields.io/github/forks/Noxashik/bombing?style=for-the-badge&color=blue&logo=github">
   <img src="https://img.shields.io/github/license/Noxashik/bombing?style=for-the-badge&color=green">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=🚀+STEALTH+ENGINE+V22.0+PRO;🛡️+IP-SHIELD+PROTECTION+ACTIVE;🔐+CLOUD+LOGIN+SYSTEM+ENABLED;🔥+DEVELOPED+BY+NOX+BHAI" alt="Typing SVG" />
-</p>
+---
+
+## 📢 🔐 TOOL PASSWORD:
+> [!IMPORTANT]
+> **টুলের পাসওয়ার্ড আমার টেলিগ্রাম চ্যানেলে দেওয়া আছে। নিচের লিঙ্কে ক্লিক করে জয়েন করুন:** > 👉 **[JOIN TELEGRAM CHANNEL](https://t.me/teach420x)**
 
 ---
 
-# 🚀 STEALTH ENGINE PRO (V22.0)
-**Professional SMS Bomber with Advanced Security.** Developed by **Minhaj Chowdhury (NOX BHAI)** 🛡️
-
-## 🌟 Key Features
-* **🛡️ IP-Shield Active:** Advanced headers and user-agent rotation to prevent IP blocking.
-* **🔐 Cloud Login System:** Secure access controlled via remote password from Pastebin.
-* **🚀 High-Speed Threads:** Multi-threading for rapid and consistent OTP delivery.
-* **📱 Full Compatibility:** Optimized for Termux on Android 5.0 up to Android 16+.
-* **🕵️ Stealth Output:** Clean interface with no service names shown for total privacy.
+## 📸 Tool Preview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Noxashik/bombing/main/Screenshot_20260302-223351_Termux.png" width="400" alt="Stealth Engine UI">
+</p>
 
 ---
 
 ## 📥 Quick Installation
 
-আপনার **DEVICES**-এ টার্মাক্সে নিচের কমান্ডগুলো কপি-পেস্ট করুন:
+আপনার **Android** ডিভাইসে টার্মাক্সে নিচের কমান্ডগুলো কপি-পেস্ট করুন:
 
 ```bash
 # Update Termux
@@ -39,7 +37,7 @@ pkg install python git -y
 pip install requests
 
 # Clone Repository 
-git clone https://github.com/Noxashik/bombing
+git clone [https://github.com/Noxashik/bombing](https://github.com/Noxashik/bombing)
 
 # Enter Directory
 cd bombing
