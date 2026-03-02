@@ -38,8 +38,8 @@ pkg install python git -y
 # Install Requirements
 pip install requests
 
-# Clone Repository
-git clone [https://github.com/Noxashik/bombing](https://github.com/Noxashik/bombing)
+# Clone Repository 
+git clone https://github.com/Noxashik/bombing
 
 # Enter Directory
 cd bombing
